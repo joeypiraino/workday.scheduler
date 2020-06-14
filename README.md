@@ -1,6 +1,8 @@
-# workdayscheduler.github.io
+# Work-Day Scheduler
 
-This is the creation of a day planner with an 8 hour work day from 9am to 5pm:
+Deployed Site: https://joeypiraino.github.io/workday.scheduler/
+
+### This is the creation of a day planner with an 8 hour work day from 9am to 5pm:
 
 -The planner must be able to save entries to local storage
 
@@ -15,4 +17,3 @@ This is the creation of a day planner with an 8 hour work day from 9am to 5pm:
 -Needs to compare each hour to current hour
 
 -if/else statements created for time differences
-
